@@ -1,2 +1,2 @@
-# Study_Note
-학습한 내용을 보관하는 레포지토리 입니다.!
+# JAVA
+* [Equals와 HashCode(+HashMap)](https://chivalrous-asparagus-831.notion.site/Equals-HashCode-HashMap-20b9ac22a1384fdf96381d24679e039e?pvs=4)
