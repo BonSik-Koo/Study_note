@@ -4,6 +4,8 @@
 > JAVA, 네트워크, DB, 아키텍처 등 다양한 지식을 깃허브를 그만두는 날까지 학습한 내용을 업로드 할 예정입니다.
 > 
 > 지금까지 작성한 블로그 및 Spring 학습 내용도 하나씩 병합할 예정입니다.
+> 
+> 추가로 학습 간, 진행한 실습 코드가 있다면 함께 업로드 할 예정입니다.
 
 # JAVA
 * [Equals와 HashCode(+HashMap)](https://chivalrous-asparagus-831.notion.site/Equals-HashCode-HashMap-20b9ac22a1384fdf96381d24679e039e?pvs=4)
