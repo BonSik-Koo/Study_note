@@ -8,6 +8,7 @@
 > 추가로 학습 간, 진행한 실습 코드가 있다면 함께 업로드 할 예정입니다.
 
 # JAVA
+* [Excpetion(작성중)](https://chivalrous-asparagus-831.notion.site/6117cb018f3d41e294c5711f9bbf9d16?pvs=4)
 * [Equals와 HashCode(+HashMap)](https://chivalrous-asparagus-831.notion.site/Equals-HashCode-HashMap-20b9ac22a1384fdf96381d24679e039e?pvs=4)
 * [상수 인터페이스와 유틸리티 클래스](https://chivalrous-asparagus-831.notion.site/vs-72bda8b89c984dbdbfb33bfd6fdebe57?pvs=4)
 
