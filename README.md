@@ -14,6 +14,10 @@
 
 # 네트워크
 * [동기와 비동기, 블로킹과 논블로킹](https://chivalrous-asparagus-831.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
+* [HTTP Header 한글 문제(+인코딩)](https://chivalrous-asparagus-831.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
 
 # 아키텍처
 * [헥사고날 아키텍처](https://chivalrous-asparagus-831.notion.site/c6f55333a15b4bee83f8cb2ae0864d6b?pvs=4)
+
+# DDD
+* [도메인 이벤트(+ApplicationEventPublisher) - 학습중](https://chivalrous-asparagus-831.notion.site/ApplicationEventPublisher-1726c08c496e434abf2faf630cb28184?pvs=4)
