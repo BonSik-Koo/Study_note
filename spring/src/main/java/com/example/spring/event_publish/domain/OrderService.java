@@ -10,10 +10,10 @@ import org.springframework.transaction.annotation.Transactional;
 public class OrderService {
     private final OrderRepository orderRepository;
 
-    public void delivery(Long orderNo){
-        Order order = orderRepository.findById(orderNo)
+    public void completedDelivery(Long orderId){
+        Order order = orderRepository.findById(orderId)
                 .orElseThrow(() -> new IllegalArgumentException("주문 정보가 존재하지 않습니다."));
-        order.delivery();
+        order.completedDelivery();
     }
 
 }

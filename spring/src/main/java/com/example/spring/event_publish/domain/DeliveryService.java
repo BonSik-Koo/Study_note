@@ -10,10 +10,10 @@ import org.springframework.transaction.annotation.Transactional;
 public class DeliveryService {
     private final DeliveryRepository repository;
 
-    public void delivery(Long deliveryId) {
+    public void updateDeliveryStatus(Long deliveryId, DeliveryState state) {
         Delivery delivery = repository.findById(deliveryId)
                 .orElseThrow(() -> new IllegalArgumentException("배송 정보가 존재하지 않습니다."));
-        delivery.startDelivery();;
+        delivery.update(state);;
     }
 
 }

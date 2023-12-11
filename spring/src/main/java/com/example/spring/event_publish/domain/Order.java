@@ -6,12 +6,15 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 @Entity
 @Getter
-@NoArgsConstructor
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 @Table(name = "orders")
 public class Order {
     @Id
@@ -21,12 +24,8 @@ public class Order {
     @Enumerated
     private OrderState state;
 
-    public Order(OrderState state){
-        this.state = state;
-    }
-
-    public void delivery() {
-        this.state = OrderState.DELIVERY;
+    public void completedDelivery() {
+        this.state = OrderState.DELIVERY_COMPLETED;
     }
 
 }

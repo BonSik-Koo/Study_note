@@ -9,7 +9,6 @@ import com.example.spring.event_publish.domain.DeliveryState;
 import com.example.spring.event_publish.domain.Order;
 import com.example.spring.event_publish.domain.OrderRepository;
 import com.example.spring.event_publish.domain.OrderState;
-import jakarta.persistence.EntityManager;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -25,26 +24,26 @@ class OrderServiceTest {
     @Autowired OrderRepository orderRepository;
 
     @AfterEach
-    public void testDown(){
-        orderRepository.deleteAll();
-        deliveryRepository.deleteAll();
+    public void tearDown(){
+        orderRepository.deleteAllInBatch();
+        deliveryRepository.deleteAllInBatch();
     }
 
-    @DisplayName("배송을 시작하면 이벤트를 통해 주문 상태를 배송중 상태로 변경한다.")
+    @DisplayName("배송이 완료되면 주문은 배송 완료 상태가 된다.")
     @Test
-    void deliveyEventPublish() {
+    void deliveryCompleted() {
         //given
-        Order createOrder = new Order(OrderState.ORDER);
-        Delivery createDelivery = new Delivery(DeliveryState.PICK_UP);
+        Order createOrder = new Order(null, OrderState.DELIVERY_ING);
         orderRepository.save(createOrder);
+        Delivery createDelivery = new Delivery(null, createOrder.getId(), DeliveryState.DELIVERY_ING);
         deliveryRepository.save(createDelivery);
 
         //when
-        deliveryService.delivery(createDelivery.getId());
+        deliveryService.updateDeliveryStatus(createDelivery.getId(), DeliveryState.DELIVERY_COMPLETED);
 
         //then
         Order findOrder = orderRepository.findById(createOrder.getId()).get();
-        assertThat(findOrder.getState()).isEqualByComparingTo(OrderState.DELIVERY);
+        assertThat(findOrder.getState()).isEqualByComparingTo(OrderState.DELIVERY_COMPLETED);
     }
 
 }
