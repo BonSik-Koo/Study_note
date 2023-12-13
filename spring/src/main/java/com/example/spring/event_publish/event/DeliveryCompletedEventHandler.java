@@ -4,6 +4,7 @@ import com.example.spring.event_publish.domain.OrderService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
@@ -26,6 +27,7 @@ public class DeliveryCompletedEventHandler {
         log.info("after completion listener = {}" ,event);
     }
 
+    @Async
     @Transactional(propagation = Propagation.REQUIRES_NEW)
     @TransactionalEventListener // default : TransactionPhase.AFTER_COMMIT
     public void afterCommitListener(DeliveryCompletedEvent event) {
