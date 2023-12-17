@@ -12,6 +12,9 @@
 * [Equals와 HashCode(+HashMap)](https://chivalrous-asparagus-831.notion.site/Equals-HashCode-HashMap-20b9ac22a1384fdf96381d24679e039e?pvs=4)
 * [상수 인터페이스와 유틸리티 클래스](https://chivalrous-asparagus-831.notion.site/vs-72bda8b89c984dbdbfb33bfd6fdebe57?pvs=4)
 
+# JPA
+* [MultipleBagFetchException](https://chivalrous-asparagus-831.notion.site/MultipleBagFetchException-59246824ad11452aa47525bc41408e02?pvs=4)
+
 # 네트워크
 * [동기와 비동기, 블로킹과 논블로킹](https://chivalrous-asparagus-831.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
 * [HTTP Header 한글 문제(+인코딩)](https://chivalrous-asparagus-831.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
