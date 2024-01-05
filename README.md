@@ -20,7 +20,8 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 * [HTTP Header 한글 문제(+인코딩)](https://chivalrous-asparagus-831.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
 
 # DB
-* [인덱스(개념, 자료구조, 스캔 동작 방식, 클러스터형 인덱스 등)](https://chivalrous-asparagus-831.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
+* [인덱스(개념, 자료구조, 스캔 동작 방식, 복합 인덱스, 클러스터형 인덱스)](https://chivalrous-asparagus-831.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
+* [드라이빙 테이블과 결정규칙](https://chivalrous-asparagus-831.notion.site/5431a301739f4851848f95c99a8edb17?pvs=4)
 
 # 아키텍처
 * [헥사고날 아키텍처](https://chivalrous-asparagus-831.notion.site/c6f55333a15b4bee83f8cb2ae0864d6b?pvs=4)
