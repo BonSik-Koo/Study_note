@@ -22,7 +22,7 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 # DB
 * [인덱스(개념, 자료구조, 스캔 동작 방식, 복합 인덱스, 클러스터형 인덱스)](https://chivalrous-asparagus-831.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
 * [ORDER BY/GROUP BY와 인덱스](https://chivalrous-asparagus-831.notion.site/ORDER-BY-GROUP-BY-d141c2ce89e44296bd948ebdb22f15de?pvs=4)
-* [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash 조인)](https://chivalrous-asparagus-831.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
+* [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash조인,Sort Merge조인,추가 고민)](https://chivalrous-asparagus-831.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
 * [드라이빙 테이블과 결정규칙](https://chivalrous-asparagus-831.notion.site/5431a301739f4851848f95c99a8edb17?pvs=4)
 
 # 아키텍처
