@@ -28,6 +28,9 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 # 아키텍처
 * [헥사고날 아키텍처](https://chivalrous-asparagus-831.notion.site/c6f55333a15b4bee83f8cb2ae0864d6b?pvs=4)
 
+# 디자인 패턴
+* [전략(Strategy) 패턴](https://chivalrous-asparagus-831.notion.site/Strategy-e10b4ea73eea42bab0e61645fdb40382?pvs=4)
+
 # 테스트 코드
 * [assertThatThrowBy()와 assertThatCode()](https://chivalrous-asparagus-831.notion.site/assertThatThrowBy-assertThatCode-4f788031b8264f0db8d0e13f4e774c71?pvs=4)
 
