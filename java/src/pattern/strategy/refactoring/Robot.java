@@ -12,7 +12,8 @@ public class Robot implements SpeakStrategy {
 
     public void move() {
         moveStrategy.move();
-    }가
+    }
+
     public void speak() {
         speakStrategy.speak();
     }
