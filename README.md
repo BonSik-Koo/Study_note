@@ -15,6 +15,7 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 
 # JPA
 * [벌크 Insert](https://chivalrous-asparagus-831.notion.site/Batch-Insert-1d7b3fcb63cf4b72940763872eb8e5ae?pvs=4)
+* [채번 전략의 종류와 주의점](https://dev-resume.notion.site/06495b556780434785b09ba6c9c38f5b?pvs=4)
 * [MultipleBagFetchException](https://chivalrous-asparagus-831.notion.site/MultipleBagFetchException-59246824ad11452aa47525bc41408e02?pvs=4)
 
 # 네트워크
