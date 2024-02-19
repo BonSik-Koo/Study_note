@@ -18,7 +18,8 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 * [채번 전략의 종류와 주의점](https://dev-resume.notion.site/06495b556780434785b09ba6c9c38f5b?pvs=4)
 * [MultipleBagFetchException](https://dev-resume.notion.site/MultipleBagFetchException-59246824ad11452aa47525bc41408e02?pvs=4)
 
-# 네트워크
+# 네트워크, 운영체제
+* [[JVM] 스레드와 런타임 데이터 영역 (작성중)](https://dev-resume.notion.site/JVM-ce8ef0e9068b4e87ba518f82c863d5b7?pvs=4)
 * [동기와 비동기, 블로킹과 논블로킹](https://dev-resume.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
 * [HTTP Header 한글 문제(+인코딩)](https://dev-resume.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
 
