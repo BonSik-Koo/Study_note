@@ -10,8 +10,14 @@ import org.springframework.web.bind.annotation.RestController;
 public class RaceConditionController {
     public static Integer amount = 0;
 
-    @PostMapping("/increase")
-    public ResponseEntity<Void> increaseCount() throws InterruptedException {
+    @PostMapping("/increase1")
+    public ResponseEntity<Void> increaseCount1() {
+        amount++;
+        return ResponseEntity.ok().build();
+    }
+
+    @PostMapping("/increase2")
+    public ResponseEntity<Void> increaseCount2() throws InterruptedException {
         amount++;
         if(amount < 10) {
             Thread.sleep(2);
