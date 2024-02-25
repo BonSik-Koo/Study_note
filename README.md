@@ -8,6 +8,7 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 > (참고로 아래 링크들은 노션 링크입니다.)
 
 # JAVA
+* [멀티 스레드와 동기화 방식(블로킹, 논블로킹) - 작성중](https://dev-resume.notion.site/205a270f4e8647e48a45453937ead110?pvs=4)
 * [Equals와 HashCode(+HashMap)](https://dev-resume.notion.site/Equals-HashCode-HashMap-20b9ac22a1384fdf96381d24679e039e?pvs=4)
 * [상수 인터페이스와 유틸리티 클래스](https://dev-resume.notion.site/vs-72bda8b89c984dbdbfb33bfd6fdebe57?pvs=4)
 * [상속과 컴포지션](https://dev-resume.notion.site/216d48a135df40fd90a7a6335e0b749e?pvs=4)
@@ -19,7 +20,7 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 * [MultipleBagFetchException](https://dev-resume.notion.site/MultipleBagFetchException-59246824ad11452aa47525bc41408e02?pvs=4)
 
 # 네트워크, 운영체제
-* [[JVM] 스레드와 런타임 데이터 영역 (작성중)](https://dev-resume.notion.site/JVM-ce8ef0e9068b4e87ba518f82c863d5b7?pvs=4)
+* [[JVM] 스레드와 런타임 데이터 영역 - 작성중](https://dev-resume.notion.site/JVM-ce8ef0e9068b4e87ba518f82c863d5b7?pvs=4)
 * [동기와 비동기, 블로킹과 논블로킹](https://dev-resume.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
 * [HTTP Header 한글 문제(+인코딩)](https://dev-resume.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
 
