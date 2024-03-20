@@ -24,7 +24,8 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 * [동기와 비동기, 블로킹과 논블로킹](https://dev-resume.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
 * [HTTP Header 한글 문제(+인코딩)](https://dev-resume.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
 
-# DB
+# MySQL
+* [트랜잭션 격리레벨과 MVCC(격리레벨, 언두/리두 영역)](https://dev-resume.notion.site/MVCC-d07b3764bb554fb180b5a479d9f1cc5e?pvs=4)
 * [인덱스(개념, 자료구조, 스캔 동작 방식, 복합 인덱스, 클러스터형 인덱스)](https://dev-resume.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
 * [ORDER BY/GROUP BY와 인덱스](https://dev-resume.notion.site/ORDER-BY-GROUP-BY-d141c2ce89e44296bd948ebdb22f15de?pvs=4)
 * [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash조인,Sort Merge조인,추가 고민)](https://dev-resume.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
