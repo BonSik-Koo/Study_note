@@ -42,3 +42,6 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 
 # DDD
 * [도메인 이벤트(+ApplicationEventPublisher)](https://dev-resume.notion.site/1726c08c496e434abf2faf630cb28184?pvs=4)
+
+# CS 기술 면접 대비
+* [운영체제](https://dev-resume.notion.site/3c143d559e78414f86d83d1a96d54684?pvs=4)
