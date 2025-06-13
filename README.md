@@ -9,6 +9,7 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 
 # SQLP
 * [인덱스 튜닝](https://dev-resume.notion.site/12ca0c4e8f5a803ca02dc0b2c96c8bbe?source=copy_link)
+* [조인 튜닝](https://dev-resume.notion.site/17aa0c4e8f5a8027b438c73c4c483066?source=copy_link)
 
 # CS 기술 면접 대비
 * [운영체제](https://dev-resume.notion.site/3c143d559e78414f86d83d1a96d54684?pvs=4)
