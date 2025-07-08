@@ -1,17 +1,16 @@
-JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입니다.
-
-기본적인 개념 및 문법이 아닌 스터디, 프로젝트, 실무를 경험 하면서 추가 학습이 필요한 지식을 정리한 내용입니다.
-> JAVA, 네트워크, DB, 아키텍처 등 다양한 지식을 깃허브를 그만두는 날까지 학습한 내용을 업로드 할 예정입니다.
-> 
-> 추가로 학습 간, 진행한 실습 코드가 있다면 함께 업로드 할 예정입니다.
-> 
-> (참고로 아래 링크들은 노션 링크입니다.)
-
-# SQLP
+# Oracle
 * [인덱스 튜닝](https://dev-resume.notion.site/12ca0c4e8f5a803ca02dc0b2c96c8bbe?source=copy_link)
 * [조인 튜닝](https://dev-resume.notion.site/17aa0c4e8f5a8027b438c73c4c483066?source=copy_link)
+* [백업/복구를 위한 기본지식](https://dev-resume.notion.site/Oracle-224a0c4e8f5a80ad82bbddc7fb5ba326?source=copy_link)
 
-# CS 기술 면접 대비
+# MySQL
+* [트랜잭션 격리레벨과 MVCC(격리레벨, 언두/리두 영역)](https://dev-resume.notion.site/MVCC-d07b3764bb554fb180b5a479d9f1cc5e?pvs=4)
+* [인덱스(개념, 자료구조, 스캔 동작 방식, 복합 인덱스, 클러스터형 인덱스)](https://dev-resume.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
+* [ORDER BY/GROUP BY와 인덱스](https://dev-resume.notion.site/ORDER-BY-GROUP-BY-d141c2ce89e44296bd948ebdb22f15de?pvs=4)
+* [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash조인,Sort Merge조인,추가 고민)](https://dev-resume.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
+* [드라이빙 테이블과 결정규칙](https://dev-resume.notion.site/5431a301739f4851848f95c99a8edb17?pvs=4)
+
+# CS 지식
 * [운영체제](https://dev-resume.notion.site/3c143d559e78414f86d83d1a96d54684?pvs=4)
 
 # JAVA
@@ -25,13 +24,6 @@ JAVA, CS, Spring 등 학습한 내용을 정리하기 위한 레포지토리입�
 * [[JVM] 스레드와 런타임 데이터 영역 - 작성중](https://dev-resume.notion.site/JVM-ce8ef0e9068b4e87ba518f82c863d5b7?pvs=4)
 * [동기와 비동기, 블로킹과 논블로킹](https://dev-resume.notion.site/c7a07d79507f43f69931cdc4d2768de6?pvs=4)
 * [HTTP Header 한글 문제(+인코딩)](https://dev-resume.notion.site/HTTP-Header-8ca0ab2cb2194532a9ca12f665520ed2?pvs=4)
-
-# MySQL
-* [트랜잭션 격리레벨과 MVCC(격리레벨, 언두/리두 영역)](https://dev-resume.notion.site/MVCC-d07b3764bb554fb180b5a479d9f1cc5e?pvs=4)
-* [인덱스(개념, 자료구조, 스캔 동작 방식, 복합 인덱스, 클러스터형 인덱스)](https://dev-resume.notion.site/1eda1751445d4e1882fc16797d0c9556?pvs=4)
-* [ORDER BY/GROUP BY와 인덱스](https://dev-resume.notion.site/ORDER-BY-GROUP-BY-d141c2ce89e44296bd948ebdb22f15de?pvs=4)
-* [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash조인,Sort Merge조인,추가 고민)](https://dev-resume.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
-* [드라이빙 테이블과 결정규칙](https://dev-resume.notion.site/5431a301739f4851848f95c99a8edb17?pvs=4)
 
 # JPA
 * [벌크 Insert](https://dev-resume.notion.site/Batch-Insert-1d7b3fcb63cf4b72940763872eb8e5ae?pvs=4)
