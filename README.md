@@ -1,6 +1,4 @@
 # Oracle
-* [인덱스 튜닝](https://dev-resume.notion.site/12ca0c4e8f5a803ca02dc0b2c96c8bbe?source=copy_link)
-* [조인 튜닝](https://dev-resume.notion.site/17aa0c4e8f5a8027b438c73c4c483066?source=copy_link)
 * [백업/복구를 위한 기본지식](https://dev-resume.notion.site/Oracle-224a0c4e8f5a80ad82bbddc7fb5ba326?source=copy_link)
 
 # MySQL
@@ -9,6 +7,13 @@
 * [ORDER BY/GROUP BY와 인덱스](https://dev-resume.notion.site/ORDER-BY-GROUP-BY-d141c2ce89e44296bd948ebdb22f15de?pvs=4)
 * [JOIN 구현방식과 동작방식(NL조인,Block-NL조인,Hash조인,Sort Merge조인,추가 고민)](https://dev-resume.notion.site/JOIN-5fb4b95f448042a0b3c06d77cf7fe209?pvs=4)
 * [드라이빙 테이블과 결정규칙](https://dev-resume.notion.site/5431a301739f4851848f95c99a8edb17?pvs=4)
+
+# SQLP
+* [인덱스 튜닝](https://dev-resume.notion.site/12ca0c4e8f5a803ca02dc0b2c96c8bbe?source=copy_link)
+* [조인 튜닝](https://dev-resume.notion.site/17aa0c4e8f5a8027b438c73c4c483066?source=copy_link)
+* [소트 튜닝](https://dev-resume.notion.site/19ca0c4e8f5a8054a18cf51d6f3333eb?source=copy_link)
+* [SQL 옵타마이저와 쿼리변환](https://dev-resume.notion.site/SQL-244a0c4e8f5a801e8d0fc13b842951a7?source=copy_link)
+* [DML 튜닝](https://dev-resume.notion.site/DML-1a1a0c4e8f5a80e69e56ef915981e994?source=copy_link)
 
 # CS 지식
 * [운영체제](https://dev-resume.notion.site/3c143d559e78414f86d83d1a96d54684?pvs=4)
